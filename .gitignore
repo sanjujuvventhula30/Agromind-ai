@@ -1,0 +1,13 @@
+# Python environments
+agents/
+__pycache__/
+*.pyc
+
+# Local data and caches
+automation.db
+models/
+workspace/
+
+# IDE and OS files
+.vscode/
+.DS_Store
